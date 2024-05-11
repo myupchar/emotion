@@ -96,6 +96,7 @@ Look here 👉 _[emotion babel plugin feature table and documentation](https://g
 - [frontity.org](https://frontity.org)
 - [abacusfi.com](https://abacusfi.com)
 - [healthline.com](https://www.healthline.com)
+- [myupchar.com](https://www.myupchar.com/en)
 - [nytimes.com](https://www.nytimes.com)
 - [vault.crucible.gg](http://vault.crucible.gg/)
 - [render.com](https://render.com)
